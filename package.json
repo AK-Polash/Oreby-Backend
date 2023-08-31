@@ -3,9 +3,12 @@
   "version": "1.0.0",
   "description": "Oreby backend",
   "main": "index.js",
+  "engines": {
+    "node": "14.x"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon index.js"
+    "start": "node index.js"
   },
   "author": "A.K. Polash\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[\u001b[\u001b[C",
   "license": "ISC",
